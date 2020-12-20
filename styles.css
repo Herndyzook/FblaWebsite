@@ -13,8 +13,7 @@ a{
 }
 .alignright{
   float: right !important;
-  background-color: #4CAF50 ;
-  color: white;
+
 }
 .backgroundcolor{
   background-color: #23b0fc;
@@ -62,4 +61,8 @@ body{
   font-family: sans-serif;
   font-size: 36px;
   color:#ffffff;
+}
+.reee{
+  background-color: #4CAF50 ;
+  color: white;
 }
