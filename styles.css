@@ -1,0 +1,63 @@
+a{
+  font-family: sans-serif;
+  float:left;
+  font-size: 24px;
+  display:block;
+  display:inline;
+  padding: 16px;
+  margin: 10px;
+  color:#ffffff;
+  background-color: #FEAF2E;
+  border-radius: 30px;
+
+}
+.alignright{
+  float: right
+}
+.backgroundcolor{
+  background-color: #23b0fc;
+}
+nav{
+  background-color: #0275d8;
+
+}
+a:link{
+  text-decoration: none;
+}
+a:hover{
+  background-color: red;
+}
+.active {
+  background-color: #4CAF50 ;
+  color: white;
+}
+ul{
+  list-style-type : none;
+  margin:0;
+  overflow: hidden;
+  padding: 0;
+  background-color: #0275d8;
+  position:sticky !important;
+  width:100%;
+}
+h2{
+  font-family: sans-serif;
+
+}
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2016/06/05/07/59/stars-1436950_960_720.jpg);
+}
+.intro{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 48px;
+  color:#ffffff;
+  margin:40px;
+}
+
+.backgroundinfo{
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 36px;
+  color:#ffffff;
+}
