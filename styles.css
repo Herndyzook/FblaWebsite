@@ -12,7 +12,9 @@ a{
 
 }
 .alignright{
-  float: right!important;
+  float: right !important;
+  background-color: #4CAF50 ;
+  color: white;
 }
 .backgroundcolor{
   background-color: #23b0fc;
