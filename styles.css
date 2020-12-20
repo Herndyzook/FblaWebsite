@@ -12,7 +12,7 @@ a{
 
 }
 .alignright{
-  float: right
+  float: right!important;
 }
 .backgroundcolor{
   background-color: #23b0fc;
