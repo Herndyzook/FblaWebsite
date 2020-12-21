@@ -21,6 +21,7 @@ a{
 nav{
   background-color: #0275d8;
 
+
 }
 a:link{
   text-decoration: none;
@@ -61,8 +62,16 @@ body{
   font-family: sans-serif;
   font-size: 36px;
   color:#ffffff;
+
 }
 .reee{
   background-color: #4CAF50 ;
   color: white;
+}
+.contactlink{
+  background-color: #0275d8!important;
+
+}
+.contactlink:hover{
+  background-color: #5cb85c!important;
 }
