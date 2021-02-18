@@ -15,10 +15,10 @@ a{
 
 }
 .backgroundcolor{
-  background-color: #184A45FF;
+  background-color: #184A45;
 }
 nav{
-  background-color: #184A45FF;
+  background-color: #184A45;
 ;
 
 
@@ -27,7 +27,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
-  background-color: #545454;
+  background-color: #FC766A;
 }
 .active {
   background-color: #4CAF50;
@@ -38,7 +38,7 @@ ul{
   margin:0;
   overflow: hidden;
   padding: 0;
-  background-color: #0275d8;
+  background-color: #FC766A;
   position:sticky !important;
   width:100%;
 }
@@ -47,7 +47,7 @@ h2{
 
 }
 body{
-  background-color: #184A45FF;
+  background-color: #184A45;
   <-->green</-->
 }
 .intro{
@@ -66,15 +66,15 @@ body{
 
 }
 .reee{
-  background-color: #FC766AFF;
+  background-color: #FC766A;
   color: white;
 }
 .contactlink{
-  background-color: #FC766AFF!important;
+  background-color: #FC766A!important;
 
 }
 .contactlink:hover{
-  background-color: #FC766AFF!important;
+  background-color: #FC766A!important;
 }
 .centercenter{
   display:block;
