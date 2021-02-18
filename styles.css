@@ -27,7 +27,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
-  background-color: #2596be;
+  background-color: #FC766A;
 }
 .active {
   background-color: #4CAF50;
@@ -74,7 +74,7 @@ body{
 
 }
 .contactlink:hover{
-  background-color: #FC766A!important;
+  background-color: #E26A5F!important;
 }
 .centercenter{
   display:block;
