@@ -27,7 +27,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
-  background-color: #FC766A;
+  background-color: #2596be;
 }
 .active {
   background-color: #4CAF50;
@@ -38,7 +38,7 @@ ul{
   margin:0;
   overflow: hidden;
   padding: 0;
-  background-color: #FC766A;
+  background-color: #2596be;
   position:sticky !important;
   width:100%;
 }
