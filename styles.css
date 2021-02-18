@@ -15,10 +15,11 @@ a{
 
 }
 .backgroundcolor{
-  background-color: #23b0fc;
+  background-color: #184A45FF;
 }
 nav{
-  background-color: #0275d8;
+  background-color: #184A45FF
+;
 
 
 }
@@ -26,7 +27,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
-  background-color: red;
+  background-color: #545454;
 }
 .active {
   background-color: #4CAF50 ;
@@ -46,7 +47,7 @@ h2{
 
 }
 body{
-  background-image: url(https://cdn.pixabay.com/photo/2016/06/05/07/59/stars-1436950_960_720.jpg);
+  background-color: #FC766AFF
 }
 .intro{
   text-align: center;
