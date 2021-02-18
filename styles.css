@@ -7,7 +7,7 @@ a{
   padding: 16px;
   margin: 10px;
   color:#ffffff;
-  background-color: #FEAF2E;
+  background-color: #B0B8B4FF;
   border-radius: 30px;
 }
 .alignright{
@@ -47,7 +47,8 @@ h2{
 
 }
 body{
-  background-color: #FC766AFF;
+  background-color: #184A45FF;
+  <-->green</-->
 }
 .intro{
   text-align: center;
@@ -65,15 +66,15 @@ body{
 
 }
 .reee{
-  background-color: #4CAF50;
+  background-color: #FC766AFF;
   color: white;
 }
 .contactlink{
-  background-color: #0275d8!important;
+  background-color: #FC766AFF!important;
 
 }
 .contactlink:hover{
-  background-color: #5cb85c!important;
+  background-color: #FC766AFF!important;
 }
 .centercenter{
   display:block;
