@@ -1,7 +1,7 @@
 a{
   font-family: sans-serif;
   float:left;
-  font-size: 24px;
+  font-size: 18px;
   display:block;
   display:inline;
   padding: 16px;
@@ -27,7 +27,7 @@ a:link{
   text-decoration: none;
 }
 a:hover{
-  background-color: #FC766A;
+  background-color: ##00008b;
 }
 .active {
   background-color: #4CAF50;
@@ -74,7 +74,7 @@ body{
 
 }
 .contactlink:hover{
-  background-color: #E26A5F!important;
+  background-color: #003366!important;
 }
 .centercenter{
   display:block;
